@@ -74,24 +74,32 @@ Phase 3: Development Part 1
        .In this phase, we'll kickstart the development of the sentiment analysis solution by focusing on data selection and preprocessing. These initial steps are crucial to ensure that the data is ready for analysis and modeling, setting the foundation for the subsequent phases.
 
 Data Selection:
+     
       . We will begin by carefully selecting the dataset for our project. As specified, we will use the Twitter Airline Sentiment Dataset, which contains customer reviews and sentiments about competitor products.
+      
       . The dataset's choice is based on its relevance to the problem statement and its potential to provide valuable insights into customer sentiments.
       
 Data Preprocessing:
+       
        .Data cleaning is an essential step in preparing the dataset for analysis. This includes:
            *Removing duplicates to ensure data consistency.
            *Handling missing values to maintain data integrity.
+       
        .Text preprocessing will be performed to facilitate meaningful sentiment analysis. This involves:
            *Tokenization: Splitting the text data into individual words or tokens.
            *Lowercasing: Converting all text to lowercase to ensure consistent analysis.
            *Handling special characters, punctuation, and noise in the text data.
+       
        .Data will be organized and structured to make it suitable for various sentiment analysis techniques in the subsequent phases.
 
 Tools and Frameworks:
+       
         .We will leverage popular data preprocessing libraries and tools such as Python's pandas and numpy for efficient data handling and manipulation.
+        
         .Additionally, natural language processing (NLP) libraries like NLTK (Natural Language Toolkit) and spaCy will be used to aid in text preprocessing.
 
 Outcome:
+     
      The outcome of this phase will be a clean and well-structured dataset, ready for sentiment analysis. Data selection and preprocessing are foundational steps that ensure the quality of insights generated in the later phases. These steps set the stage for applying various sentiment analysis techniques to the prepared data in the subsequent phases.
 
 Phase 4: Development Part 2
