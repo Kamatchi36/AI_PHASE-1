@@ -108,30 +108,35 @@ Phase 4: Development Part 2
 
 NLP Techniques:
 
-We will apply a range of NLP techniques, including but not limited to:
-Bag of Words (BoW): A traditional NLP technique for text analysis.
-Word Embeddings: Using pre-trained word embeddings models like Word2Vec, GloVe, or FastText.
-Transformer Models: Exploring the power of advanced models like BERT and RoBERTa for sentiment analysis.
+      .We will apply a range of NLP techniques, including but not limited to:
+          *Bag of Words (BoW): A traditional NLP technique for text analysis.
+          *Word Embeddings: Using pre-trained word embeddings models like Word2Vec, GloVe, or FastText.
+          *Transformer Models: Exploring the power of advanced models like BERT and RoBERTa for sentiment analysis.
+
 Model Selection:
 
-We will choose the appropriate NLP models and techniques that align with the project's objectives. The selection of these methods will be based on their suitability for analyzing customer sentiments regarding competitor products.
+         .We will choose the appropriate NLP models and techniques that align with the project's objectives. The selection of these methods will be based on their suitability for analyzing customer sentiments regarding competitor products.
+
 Insights Generation:
 
-The primary focus in this phase is to generate meaningful insights from the sentiment analysis results. We will extract actionable information that can guide business decisions.
-Insights can encompass identifying common themes in customer feedback, sentiment trends over time, and correlations between specific sentiments and customer demographics.
+         .The primary focus in this phase is to generate meaningful insights from the sentiment analysis results. We will extract actionable information that can guide business decisions.
+         .Insights can encompass identifying common themes in customer feedback, sentiment trends over time, and correlations between specific sentiments and customer demographics.
+
 Visualization:
 
-We will use data visualization techniques to represent sentiment distribution, trends, and insights in a clear and interpretable manner. Visualizations provide a concise way to communicate complex information to stakeholders.
+        .We will use data visualization techniques to represent sentiment distribution, trends, and insights in a clear and interpretable manner. Visualizations provide a concise way to communicate complex information to stakeholders.
+
 Outcome:
 
-The outcome of this phase will be a refined sentiment analysis solution, enriched with insights derived from NLP techniques. The insights generated will provide valuable information for marketing strategies, product improvements, and other business decisions. This phase represents a significant step toward achieving the project's objectives.
+     .The outcome of this phase will be a refined sentiment analysis solution, enriched with insights derived from NLP techniques. The insights generated will provide valuable information for marketing strategies, product improvements, and other business decisions. This phase represents a significant step toward achieving the project's objectives.
 
 Phase 5: Project Documentation & Submission
-In this final phase, we focus on documenting the project and preparing it for submission. Proper documentation is essential to ensure that the project is transparent, reproducible, and understandable by others who may review or use it.
+
+           .In this final phase, we focus on documenting the project and preparing it for submission. Proper documentation is essential to ensure that the project is transparent, reproducible, and understandable by others who may review or use it.
 
 Documentation:
-
-We will create comprehensive documentation that includes details about the project's problem statement, design thinking process, development phases, and key decisions made during the project.
+     
+     .We will create comprehensive documentation that includes details about the project's problem statement, design thinking process, development phases, and key decisions made during the project.
 Key Components of Documentation:
 
 Problem Statement: Clearly outline the problem and its significance in the context of sentiment analysis for marketing.
