@@ -137,21 +137,22 @@ Phase 5: Project Documentation & Submission
 Documentation:
      
      .We will create comprehensive documentation that includes details about the project's problem statement, design thinking process, development phases, and key decisions made during the project.
-Key Components of Documentation:
+ 
+ Key Components of Documentation:
 
-Problem Statement: Clearly outline the problem and its significance in the context of sentiment analysis for marketing.
+      1. Problem Statement: Clearly outline the problem and its significance in the context of sentiment analysis for marketing.
 
-Design Thinking Process: Describe the structured approach followed, from data collection to insights generation.
+      2. Design Thinking Process: Describe the structured approach followed, from data collection to insights generation.
 
-Development Phases: Document the key activities and achievements in each development phase, including data selection, preprocessing, application of NLP techniques, and insights generation.
+      3. Development Phases: Document the key activities and achievements in each development phase, including data selection, preprocessing, application of NLP techniques, and insights generation.
 
-Data Preprocessing and Sentiment Analysis Techniques: Explain the data preprocessing steps and the sentiment analysis techniques used.
+     4. Data Preprocessing and Sentiment Analysis Techniques: Explain the data preprocessing steps and the sentiment analysis techniques used.
 
-Innovative Approaches: If any innovative techniques or approaches were employed during the project, provide details.
+     5.Innovative Approaches: If any innovative techniques or approaches were employed during the project, provide details.
 
 Submission:
-
-To submit the project for review or access by others, we will follow these steps:
+    
+    .To submit the project for review or access by others, we will follow these steps:
 Compile Code Files: All code files, including data preprocessing and sentiment analysis techniques, will be organized and provided.
 
 Create a README File: We will create a well-structured README file that explains how to run the code, any dependencies, and the project's overall structure.
