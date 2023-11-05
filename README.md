@@ -1,8 +1,4 @@
-# AI_PHASE-1
 
-harinishanmugasundharam
-/
-Harini
 
 Code
 Issues
