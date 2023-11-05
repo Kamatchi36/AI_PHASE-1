@@ -153,28 +153,31 @@ Documentation:
 Submission:
     
     .To submit the project for review or access by others, we will follow these steps:
-Compile Code Files: All code files, including data preprocessing and sentiment analysis techniques, will be organized and provided.
+      
+        1.  Compile Code Files: All code files, including data preprocessing and sentiment analysis techniques, will be organized and provided.
 
-Create a README File: We will create a well-structured README file that explains how to run the code, any dependencies, and the project's overall structure.
+       2. Create a README File: We will create a well-structured README file that explains how to run the code, any dependencies, and the project's overall structure.
 
-Sharing: We will make the project accessible on platforms like GitHub or a personal portfolio for others to review and use.
+       3. Sharing: We will make the project accessible on platforms like GitHub or a personal portfolio for others to review and use.
 
-File Naming Convention: The project notebook will follow the file naming convention: AI_Phase5.ipynb.
+ File Naming Convention: The project notebook will follow the file naming convention: AI_Phase5.ipynb.
 
 Benefits of Proper Documentation:
 
-Proper documentation ensures that the project is transparent and understandable, enabling others to review, replicate, and build upon it.
-It facilitates knowledge sharing and collaboration, allowing the project to contribute to the broader community's understanding of sentiment analysis for marketing.
+      . Proper documentation ensures that the project is transparent and understandable, enabling others to review, replicate, and build upon it.
+      . It facilitates knowledge sharing and collaboration, allowing the project to contribute to the broader community's understanding of sentiment analysis for marketing.
+
 Acknowledgments:
 
-We want to acknowledge the support of the community and any individuals or organizations who contributed to our project's development.
+         .We want to acknowledge the support of the community and any individuals or organizations who contributed to our project's development.
 
 How to Use
-To run the code and execute the sentiment analysis project, please follow the steps below. We'll also outline any dependencies you need to set up for a smooth experience.
+     
+    .To run the code and execute the sentiment analysis project, please follow the steps below. We'll also outline any dependencies you need to set up for a smooth experience.
 
 Dependencies:
 
-Before getting started, ensure you have the following dependencies installed:
+      Before getting started, ensure you have the following dependencies installed:
 
 Python 3.x: You can download and install Python from the official Python website.
 
