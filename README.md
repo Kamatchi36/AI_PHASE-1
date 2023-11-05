@@ -136,7 +136,7 @@ Phase 5: Project Documentation & Submission
 
 Documentation:
      
-     .We will create comprehensive documentation that includes details about the project's problem statement, design thinking process, development phases, and key decisions made during the project.
+     ◉We will create comprehensive documentation that includes details about the project's problem statement, design thinking process, development phases, and key decisions made during the project.
  
  Key Components of Documentation:
 
@@ -152,7 +152,7 @@ Documentation:
 
 Submission:
     
-    .To submit the project for review or access by others, we will follow these steps:
+    ◉To submit the project for review or access by others, we will follow these steps:
       
         1.  Compile Code Files: All code files, including data preprocessing and sentiment analysis techniques, will be organized and provided.
 
@@ -164,16 +164,16 @@ Submission:
 
 Benefits of Proper Documentation:
 
-      . Proper documentation ensures that the project is transparent and understandable, enabling others to review, replicate, and build upon it.
-      . It facilitates knowledge sharing and collaboration, allowing the project to contribute to the broader community's understanding of sentiment analysis for marketing.
+       ◉ Proper documentation ensures that the project is transparent and understandable, enabling others to review, replicate, and build upon it.
+       ◉ It facilitates knowledge sharing and collaboration, allowing the project to contribute to the broader community's understanding of sentiment analysis for marketing.
 
 Acknowledgments:
 
-         .We want to acknowledge the support of the community and any individuals or organizations who contributed to our project's development.
+         ◉We want to acknowledge the support of the community and any individuals or organizations who contributed to our project's development.
 
 How to Use
      
-    .To run the code and execute the sentiment analysis project, please follow the steps below. We'll also outline any dependencies you need to set up for a smooth experience.
+    ◉To run the code and execute the sentiment analysis project, please follow the steps below. We'll also outline any dependencies you need to set up for a smooth experience.
 
 Dependencies:
 
@@ -184,10 +184,15 @@ Dependencies:
 Required Python Libraries:
 
 ◉pandas
+
 ◉numpy
+
 ◉nltk
+
 ◉spaCy
+
 ◉scikit-learn
+
 ◉Transformers library for fine-tuning pre-trained models.
 You can install these libraries using the Python package manager pip:
 
