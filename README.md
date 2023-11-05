@@ -64,39 +64,39 @@ Benefits:
       
       ◉Fine-tuning pre-trained models can lead to more accurate sentiment predictions, improving the quality of insights generated.
       
-      .By leveraging the capabilities of these advanced models, we can better capture nuances in customer feedback and provide more actionable results for marketing strategies and product enhancements.
+      ◉By leveraging the capabilities of these advanced models, we can better capture nuances in customer feedback and provide more actionable results for marketing strategies and product enhancements.
  
  Outcome:
-      .This phase aims to implement and fine-tune pre-trained sentiment analysis models to enhance the precision of our sentiment predictions. The innovative approach in this phase is expected to contribute significantly to the overall success of the project by improving the quality and relevance of the insights generated from the customer feedback data.
+      ◉This phase aims to implement and fine-tune pre-trained sentiment analysis models to enhance the precision of our sentiment predictions. The innovative approach in this phase is expected to contribute significantly to the overall success of the project by improving the quality and relevance of the insights generated from the customer feedback data.
 
 Phase 3: Development Part 1
        
-       .In this phase, we'll kickstart the development of the sentiment analysis solution by focusing on data selection and preprocessing. These initial steps are crucial to ensure that the data is ready for analysis and modeling, setting the foundation for the subsequent phases.
+       ◉In this phase, we'll kickstart the development of the sentiment analysis solution by focusing on data selection and preprocessing. These initial steps are crucial to ensure that the data is ready for analysis and modeling, setting the foundation for the subsequent phases.
 
 Data Selection:
      
-      . We will begin by carefully selecting the dataset for our project. As specified, we will use the Twitter Airline Sentiment Dataset, which contains customer reviews and sentiments about competitor products.
+      ◉We will begin by carefully selecting the dataset for our project. As specified, we will use the Twitter Airline Sentiment Dataset, which contains customer reviews and sentiments about competitor products.
       
-      . The dataset's choice is based on its relevance to the problem statement and its potential to provide valuable insights into customer sentiments.
+      ◉The dataset's choice is based on its relevance to the problem statement and its potential to provide valuable insights into customer sentiments.
       
 Data Preprocessing:
        
-       .Data cleaning is an essential step in preparing the dataset for analysis. This includes:
+       ◉Data cleaning is an essential step in preparing the dataset for analysis. This includes:
            *Removing duplicates to ensure data consistency.
            *Handling missing values to maintain data integrity.
        
-       .Text preprocessing will be performed to facilitate meaningful sentiment analysis. This involves:
+       ◉Text preprocessing will be performed to facilitate meaningful sentiment analysis. This involves:
            *Tokenization: Splitting the text data into individual words or tokens.
            *Lowercasing: Converting all text to lowercase to ensure consistent analysis.
            *Handling special characters, punctuation, and noise in the text data.
        
-       .Data will be organized and structured to make it suitable for various sentiment analysis techniques in the subsequent phases.
+       ◉Data will be organized and structured to make it suitable for various sentiment analysis techniques in the subsequent phases.
 
 Tools and Frameworks:
        
-        .We will leverage popular data preprocessing libraries and tools such as Python's pandas and numpy for efficient data handling and manipulation.
+        ◉We will leverage popular data preprocessing libraries and tools such as Python's pandas and numpy for efficient data handling and manipulation.
         
-        .Additionally, natural language processing (NLP) libraries like NLTK (Natural Language Toolkit) and spaCy will be used to aid in text preprocessing.
+        ◉Additionally, natural language processing (NLP) libraries like NLTK (Natural Language Toolkit) and spaCy will be used to aid in text preprocessing.
 
 Outcome:
      
@@ -108,31 +108,31 @@ Phase 4: Development Part 2
 
 NLP Techniques:
 
-      .We will apply a range of NLP techniques, including but not limited to:
+      ◉We will apply a range of NLP techniques, including but not limited to:
           *Bag of Words (BoW): A traditional NLP technique for text analysis.
           *Word Embeddings: Using pre-trained word embeddings models like Word2Vec, GloVe, or FastText.
           *Transformer Models: Exploring the power of advanced models like BERT and RoBERTa for sentiment analysis.
 
 Model Selection:
 
-         .We will choose the appropriate NLP models and techniques that align with the project's objectives. The selection of these methods will be based on their suitability for analyzing customer sentiments regarding competitor products.
+         ◉We will choose the appropriate NLP models and techniques that align with the project's objectives. The selection of these methods will be based on their suitability for analyzing customer sentiments regarding competitor products.
 
 Insights Generation:
 
-         .The primary focus in this phase is to generate meaningful insights from the sentiment analysis results. We will extract actionable information that can guide business decisions.
-         .Insights can encompass identifying common themes in customer feedback, sentiment trends over time, and correlations between specific sentiments and customer demographics.
+         ◉The primary focus in this phase is to generate meaningful insights from the sentiment analysis results. We will extract actionable information that can guide business decisions.
+         ◉Insights can encompass identifying common themes in customer feedback, sentiment trends over time, and correlations between specific sentiments and customer demographics.
 
 Visualization:
 
-        .We will use data visualization techniques to represent sentiment distribution, trends, and insights in a clear and interpretable manner. Visualizations provide a concise way to communicate complex information to stakeholders.
+        ◉We will use data visualization techniques to represent sentiment distribution, trends, and insights in a clear and interpretable manner. Visualizations provide a concise way to communicate complex information to stakeholders.
 
 Outcome:
 
-     .The outcome of this phase will be a refined sentiment analysis solution, enriched with insights derived from NLP techniques. The insights generated will provide valuable information for marketing strategies, product improvements, and other business decisions. This phase represents a significant step toward achieving the project's objectives.
+     ◉The outcome of this phase will be a refined sentiment analysis solution, enriched with insights derived from NLP techniques. The insights generated will provide valuable information for marketing strategies, product improvements, and other business decisions. This phase represents a significant step toward achieving the project's objectives.
 
 Phase 5: Project Documentation & Submission
 
-           .In this final phase, we focus on documenting the project and preparing it for submission. Proper documentation is essential to ensure that the project is transparent, reproducible, and understandable by others who may review or use it.
+           ◉In this final phase, we focus on documenting the project and preparing it for submission. Proper documentation is essential to ensure that the project is transparent, reproducible, and understandable by others who may review or use it.
 
 Documentation:
      
