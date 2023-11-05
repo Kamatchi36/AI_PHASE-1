@@ -1,16 +1,21 @@
 
 Project Title: Sentiment Analysis for Marketing
 
-Project Description
+Project Description:
+         
          This project aims to perform sentiment analysis on customer feedback to gain insights into competitor products. By understanding customer sentiments, we can identify strengths and weaknesses in competing products, enabling us to improve our own offerings. Various Natural Language Processing (NLP) methods will be used to extract valuable insights from customer feedback.
 
-Dataset
+Dataset:
+       
        Dataset Link: Twitter Airline Sentiment Dataset
 Project Phases
-    Phase 1: Problem Definition and Design Thinking
+  
+     Phase 1:Problem Definition and Design Thinking
+              
               The primary problem we aim to address is conducting sentiment analysis on customer feedback to gain insights into competitor products. Understanding customer sentiments is critical for businesses, as it enables them to identify areas of strength and weakness in competing products. This, in turn, empowers companies to make informed decisions for enhancing their own products and services, thereby staying competitive and satisfying their customers.
 
 Significance:
+       
         This project's significance lies in its potential to help businesses gain a competitive edge by comprehending how customers evaluate competitor products. By leveraging the power of sentiment analysis, we can:
 
       ◉Identify what customers like and dislike about competitor products.
