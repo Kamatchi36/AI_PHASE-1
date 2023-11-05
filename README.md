@@ -1,49 +1,4 @@
 
-
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-Owner avatar
-Harini
-Public
-harinishanmugasundharam/Harini
- Branches
- Tags
-Latest commit
-@harinishanmugasundharam
-harinishanmugasundharam Update README.md
-…
-2 days ago
-Git stats
- 14
-Files
-Type
-Name
-Latest commit message
-Commit time
-AI_PHASE 1.pdf
-Add files via upload
-last month
-AI_PHASE 2.pdf
-Add files via upload
-last month
-AI_PHASE 5.pdf
-Add files via upload
-4 days ago
-AI_PHASE3.pdf
-Add files via upload
-3 weeks ago
-AI_PHASE4.pdf
-Add files via upload
-last week
-README.md
-Update README.md
-2 days ago
-README.md
 Project Title: Sentiment Analysis for Marketing
 Project Description
 This project aims to perform sentiment analysis on customer feedback to gain insights into competitor products. By understanding customer sentiments, we can identify strengths and weaknesses in competing products, enabling us to improve our own offerings. Various Natural Language Processing (NLP) methods will be used to extract valuable insights from customer feedback.
