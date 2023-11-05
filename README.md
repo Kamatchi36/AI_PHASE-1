@@ -146,9 +146,9 @@ Documentation:
 
       3. Development Phases: Document the key activities and achievements in each development phase, including data selection, preprocessing, application of NLP techniques, and insights generation.
 
-     4. Data Preprocessing and Sentiment Analysis Techniques: Explain the data preprocessing steps and the sentiment analysis techniques used.
+      4. Data Preprocessing and Sentiment Analysis Techniques: Explain the data preprocessing steps and the sentiment analysis techniques used.
 
-     5.Innovative Approaches: If any innovative techniques or approaches were employed during the project, provide details.
+      5.Innovative Approaches: If any innovative techniques or approaches were employed during the project, provide details.
 
 Submission:
     
@@ -179,16 +179,16 @@ Dependencies:
 
       Before getting started, ensure you have the following dependencies installed:
 
-Python 3.x: You can download and install Python from the official Python website.
+         Python 3.x: You can download and install Python from the official Python website.
 
 Required Python Libraries:
 
-pandas
-numpy
-nltk
-spaCy
-scikit-learn
-Transformers library for fine-tuning pre-trained models.
+◉pandas
+◉numpy
+◉nltk
+◉spaCy
+◉scikit-learn
+◉Transformers library for fine-tuning pre-trained models.
 You can install these libraries using the Python package manager pip:
 
 pip install pandas numpy nltk spacy scikit-learn transformers
